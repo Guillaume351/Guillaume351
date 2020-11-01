@@ -11,7 +11,7 @@ Since 2015
 A Minecraft Bedrock minigame server, will millions of entries, a native Android & iOS app for stats and purchases
 [Link to Repo](https://github.com/CookieBuild)
 ## ➕ Counter for iOS
-A SwiftUI simple counter app for iOS, using CoreData
+A SwiftUI simple counter app for iOS, using CoreData, CloudKit and WidgetKit
 [Available on AppStore](https://apps.apple.com/fr/app/counter-count-everything/id1519600424#?platform=iphone)
 ## 🧭 Spots for watchOS
 A SwiftUI app that uses the compass of an Apple Watch to point towards specific coordinates
