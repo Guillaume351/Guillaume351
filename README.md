@@ -18,6 +18,8 @@ A SwiftUI app that uses the compass of an Apple Watch to point towards specific 
 [Available on AppStore](https://apps.apple.com/fr/app/spots-compass/id1502218419)
 ## 🔎 Hywatch for macOS
 A SwiftUI app to monitor Hysland Minecraft servers
+## 🖍 Calibrated Color Picker for macOS
+A SwiftUI app to pick average color around your mouse cursor [Repository](https://github.com/Guillaume351/Calibrated-Color-Picker)
 
 ### My Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=Guillaume351&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
