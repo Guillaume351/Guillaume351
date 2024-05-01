@@ -20,7 +20,3 @@ A SwiftUI app that uses the compass of an Apple Watch to point towards specific 
 A SwiftUI app to monitor Hysland Minecraft servers
 ## 🖍 Calibrated Color Picker for macOS
 A SwiftUI app to pick average color around your mouse cursor [Repository](https://github.com/Guillaume351/Calibrated-Color-Picker)
-
-### My Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=Guillaume351&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs (public repo)](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillaume351&count_private=true&exclude_repo=Website)](https://github.com/anuraghazra/github-readme-stats)
